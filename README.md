@@ -30,7 +30,7 @@ uv --version
 
 ```sh
 uv init data-sweeper
-cd padata-sweeper
+cd data-sweeper
 ```
 
 ---
