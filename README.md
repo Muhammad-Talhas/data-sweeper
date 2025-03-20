@@ -1,6 +1,6 @@
 # Data Sweeper
 
-A simple mood tracking application built with Python, UV, and Streamlit.
+A simple data sweeper application built with Python, UV, and Streamlit.
 
 ## Getting Started
 
